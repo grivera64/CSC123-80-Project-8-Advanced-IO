@@ -19,7 +19,7 @@ import java.io.IOException;
 public class SerializeStudent
 {
 	
-	public void main(String[] args) throws IOException
+	public static void main(String[] args) throws IOException
 	{
 		
 		//Local variables
