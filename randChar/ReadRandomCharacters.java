@@ -1,4 +1,4 @@
-package project8.randChar;
+//package project8.randChar;
 
 /*
  * 
